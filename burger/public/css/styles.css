@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.container {
+	background-color: black;
+}
+body {
+	background-color: black;
+    background-image: url("https://www.c64-wiki.com/images/8/89/PacMan_Animation1.gif");
+}
+.jumbotron {
+	background-color: black;
+}
+#gif {
+	float: left;
+	clear: none;
+	z-index: 1;
+	padding-bottom: 0px;
+	margin-bottom: 5px;
+	margin-top: -46px;
+}
+#text-enter-button {
+	margin-top: 11px;
+}
+
+#titlebar {
+	background-color: black;
+}
+#h1 {
+	color: yellow;
+	margin-bottom: 16px;
+	padding-bottom: 0px;
+	padding-top: 14px;
+}
